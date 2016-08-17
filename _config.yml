@@ -1,4 +1,3 @@
-layout_spectrum: 0.9409490386024117
 typography_spectrum: 0.3739968677982688
 color:
   brandStrength: 0.35122584318742156
@@ -6,9 +5,11 @@ color:
   saturation: 0.2695651790127158
   rhythmicContrast: 0.3216816366184503
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+layout_spectrum: 0.9409490386024117
 name: better architecture
+description: Arquitectura de calidad sin que te cueste más
